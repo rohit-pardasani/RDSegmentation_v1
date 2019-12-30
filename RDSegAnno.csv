@@ -1,0 +1,181 @@
+RecordNum,PatientId,Age,Duration,RDSeg,RespDisease,Gender,LastStay,Mortality,Ventilator
+3632072,279,74,96.88,NIL,False,M,True,False,False
+3060876,682,82,95.62,54:57 ; 83:85,False,F,True,False,False
+3976294,695,85,101.5,0:47; 58:100,True,F,True,False,False
+3653853,743,77,109.27,79:85; 101:105,False,M,False,True,False
+3651264,871,81,116.28,5.5:9; 36:55; 68:80; 85:101,True,F,False,True,False
+3354601,878,76,109.87,5.5:8; 17:18;22:23,True,F,True,False,False
+3414279,963,71,92.98,4:07;9:28;30:37;38:42,True,F,True,False,False
+3517614,1190,73,96.95,41:47;68:74;77:85.5,False,M,False,False,False
+3601419,1190,73,107.1,42:48;,False,M,False,False,False
+3952472,1190,73,91.28,NIL,False,M,False,False,False
+3119089,1347,77,101.3,00:04; 25:32; 80:101.3,True,F,True,False,False
+3401436,1453,49,95.28,NIL,True,F,False,False,False
+3335982,1474,85,84.45,52:56; 65:67; 80:82,True,F,False,True,False
+3861824,1604,79,77.35,00:77.35; ,True,M,False,False,False
+3559056,1979,81,96.92,00:96.92;,False,M,True,True,False
+3167864,2228,81,103.63,94:96; 101:103.63,True,F,True,True,False
+3781458,2374,42,92.85,00:90;,True,F,True,False,False
+3818628,2477,82,74.2,41:46; 52:56,True,F,True,False,False
+3138230,2502,36,76.37,NIL,True,M,True,False,False
+3874928,2610,81,92.28,00:05; 20:40;45:92.28,False,F,True,False,False
+3998876,2919,45,74.9,NIL,False,M,False,False,False
+3694401,2946,67,70.02,NIL,False,F,False,False,False
+3797575,3287,78,93.77,00:25; 68:76;80:90,True,F,True,True,False
+3660280,3462,80,92.72,NIL,False,F,True,False,False
+3877487,3759,49,72.22,00:11;,False,F,True,False,False
+3778252,4041,87,118.6,ALL,True,M,False,False,False
+3293593,4068,84,84.27,11:17; 75:83,False,F,True,False,False
+3605160,4369,83,89.08,40:89.08;,False,M,True,False,False
+3199059,4633,67,108.65,NIL,True,M,False,False,False
+3205839,4804,71,87.28,53:61;,True,M,False,False,False
+3973169,5195,66,94.63,NIL,True,M,True,False,False
+3215299,5292,49,94.13,40:45;64:94,False,F,True,False,False
+3801795,5369,71,101.77,64:72; 75:78;90:96,True,M,False,False,False
+3941488,5493,54,71.78,50:62; 66:68; 71:72,True,F,False,False,False
+3154375,5494,86,98.12,ALL,True,M,True,True,False
+3711840,5496,39,83.58,38:41;63:83,False,F,True,False,False
+3802317,5604,62,118.48,00:06;,False,M,True,False,False
+3124071,5620,51,95.98,65:80; 85:95.98,False,F,True,False,False
+3062033,6000,79,77.73,00:15; 22:50;57:77.73,True,M,True,False,False
+3264740,6254,61,73.93,NIL,False,F,True,False,False
+3838893,6256,39,78.35,NIL,False,F,True,False,False
+3734810,6555,56,119.3,ALL,False,F,False,False,False
+3228071,6621,50,71.15,NIL,True,F,False,False,False
+3537291,6983,74,89.87,NIL,False,M,True,False,False
+3724892,7232,49,92.73,NIL,False,M,False,False,False
+3968519,7320,64,75.25,NIL,True,F,True,False,False
+3269874,7487,84,101.22,NIL,True,M,False,False,False
+3521465,7533,58,76.77,NIL,True,F,False,False,False
+3429271,7651,65,73.5,17:20;,True,F,True,False,False
+3133765,8698,84,91.98,31:35; 41:51; 60:66; 71:89,True,F,False,True,False
+3790214,9148,43,74.58,48:57;,True,F,False,False,False
+3088158,9338,77,111.3,00:30; 44:54; 90:106,False,M,True,False,False
+3645313,9555,48,81.67,ALL,True,M,False,False,False
+3374735,9949,84,88.33,NIL,True,F,False,False,False
+3755363,10289,72,100.1,NIL,False,F,True,False,False
+3588068,10428,88,76.33,16:19;,True,F,False,False,False
+3879143,10525,86,97.45,NIL,False,F,True,False,False
+3906530,10595,51,95.78,NIL,False,M,False,False,False
+3279897,10721,41,82.52,NIL,True,M,False,False,False
+3542574,10738,82,74.8,NIL,False,F,True,False,False
+3725409,10924,42,72.77,00:15;,True,F,True,False,False
+3917239,10985,42,98.53,NIL,False,M,True,False,False
+3018389,11200,64,94.42,NIL,False,M,True,False,False
+3206065,11318,71,73.48,NIL,True,F,False,False,False
+3343143,11341,63,103.45,NIL,True,F,True,True,False
+3129398,11473,78,91.5,19:45; 60:64,False,M,True,False,False
+3551742,12115,86,102.35,00:78; ,True,M,False,False,False
+3182818,13628,75,104.3,33: 104,True,M,False,False,False
+3484218,14542,85,102.03,13:102;,True,F,True,True,False
+3674711,14918,76,118.42,ALL,True,M,True,False,False
+3211415,15838,77,117.48,05:12; 25:42; 65:70; 75:85,True,F,False,False,False
+3631942,18108,48,74.9,NIL,True,F,False,False,False
+3340700,19029,43,112.02,84:90,True,F,False,False,False
+3130278,19344,65,114.47,NIL,True,M,True,False,False
+3226957,19675,36,97.62,ALL,True,F,True,True,False
+3851524,21108,76,99.18,NIL,True,M,True,False,False
+3039562,22508,64,106.73,NIL,True,M,True,False,False
+3274839,22769,77,118.8,10:18; 25:36;43:60;88:97,True,F,True,False,False
+3667899,23687,44,101.42,8:11;,True,F,True,False,False
+3743944,25581,51,116.98,50:55; 67:75; 88:110,True,M,False,False,False
+3418099,25662,69,110.07,00:20; 25:58; 83:110.07,True,M,False,False,False
+3050638,25882,86,97.43,NIL,True,M,False,False,False
+3532345,26151,62,108.82,00:30;35:39,True,M,False,False,False
+3740915,26156,72,119.6,ALL,True,F,True,False,False
+3176162,27372,84,93.75,00:15; 24:31;36:93,False,F,True,False,False
+3008629,27374,63,107.15,03:15;52:55; 61:64,True,F,True,False,False
+3820894,28110,86,70.57,50:60;,True,F,True,False,False
+3946693,28531,53,75.23,07:31; 45:75.23,True,F,True,False,False
+3553317,28676,64,79.38,NIL,True,M,True,False,False
+3479230,28727,82,93.28,03:45; 50:58; 69:93.28,False,M,True,False,False
+3677166,28827,65,80.25,32:43; 74:80,True,M,False,False,False
+3016695,28911,69,113.83,NIL,False,M,False,False,False
+3427708,29035,67,75.17,20:22; 30:44,True,F,False,True,False
+3464908,29106,50,101.32,00:25; 42:45; 48:55;60:65,False,M,False,False,False
+3214653,29861,75,73.02,12:30;,True,F,True,False,False
+3504883,29999,62,76.33,NIL,True,M,True,False,False
+3279926,30101,88,93.47,NIL,False,F,False,False,False
+3463142,31013,58,100.73,22:53; 70:73,True,M,False,False,False
+3873042,40269,74,95.38,NIL,False,M,True,False,False
+3255045,40483,54,82.28,4:9; 14:16;24:26;46:59;61:70; 72:74,True,F,False,False,False
+3253833,40797,80,91.92,19:91.92;,True,F,True,False,False
+3857252,40967,84,70.1,NIL,True,M,True,False,False
+3634963,41013,83,71.6,5:53; 55:57; 60:72,True,F,True,False,False
+3533242,41373,73,70.8,17:23; 62:64; 70: 71,True,F,True,False,False
+3730535,41897,69,90.13,NIL,True,M,True,False,False
+3267200,41945,46,74.07,NIL,True,F,True,False,False
+3598300,41976,65,71.67,NIL,True,M,False,False,False
+3925882,42184,39,115.92,29:115.92;,True,F,True,False,False
+3893495,42460,46,83.62,NIL,True,F,True,False,False
+3343934,42510,74,70.63,41:43;,False,M,False,False,False
+3248765,42763,68,89.95,29:35; 41:43; 77:79,True,F,False,False,False
+3140627,42969,53,104.5,58:62; 67:69,False,M,False,False,False
+3494736,43243,73,90.82,7:10; 48:64;72:74,True,F,True,False,False
+3263250,43422,72,118.98,NIL,True,F,True,False,False
+3421359,43817,75,74.62,4:42;48:50; 57:60;64:65;67:72;,True,F,False,False,False
+3339949,44486,78,80.6,NIL,True,F,False,True,False
+3441430,45321,66,94.5,NIL,True,M,True,False,False
+3307453,45434,56,84.0,NIL,True,M,True,False,False
+3914668,45434,56,97.73,NIL,True,M,False,False,False
+3165071,45495,88,75.6,NIL,False,M,True,False,False
+3568981,45910,68,90.58,NIL,True,M,True,False,False
+3183720,46093,24,83.57,NIL,False,F,False,False,False
+3695972,46389,56,70.43,NIL,True,M,True,False,False
+3017142,46510,49,76.0,NIL,False,F,True,False,False
+3322373,46734,81,76.98,31:33; 57:60,False,M,True,False,False
+3972349,46817,81,93.7,00:12; 31:33;37:40; 58:63;,True,F,True,False,False
+3535795,47884,48,119.72,NIL,False,F,True,False,False
+3073347,49480,74,112.42,4:8; 40:67; 72:74;78:81,True,M,True,False,False
+3158132,49544,61,106.25,4:20; 28:32; 57:61;79:81; 83:88;,True,F,True,False,False
+3496061,49683,40,96.52,2:13; 16:24;70:75;82:85;90:96,True,M,True,True,False
+3337948,50079,64,71.58,16:22; 46:48,True,F,False,False,False
+3707080,50315,70,78.32,22:38; 76:78,False,F,False,False,False
+3007707,50494,62,115.22,1:7;95:97,False,M,True,False,False
+3056696,50877,78,87.08,00:20; 23:36; 38:47; 60:64; 66:68;85:87,True,M,True,False,False
+3983123,50915,80,72.33,36:48;,True,M,True,False,False
+3253992,51136,55,73.37,46:54;,False,F,True,False,False
+3774115,51387,19,88.1,56:63;,False,F,True,False,False
+3859575,51462,59,90.77,NIL,True,F,True,False,False
+3839322,51484,53,81.02,14:26;,True,M,False,False,False
+3338371,52409,70,73.17,62:68;,True,F,False,False,False
+3335361,52453,59,118.67,48:53; 82:86; 89:96;98:110;,False,F,False,False,False
+3539842,52490,70,73.83,33:50; 53:55;59:73,True,M,True,False,False
+3040267,52602,69,75.17,NIL,False,M,True,False,False
+3418825,52695,52,82.52,00:05;13:31; 59:61;63:66;73:77,True,M,False,False,False
+3156268,52848,82,78.25,5:21; 71:76;,False,M,True,True,False
+3217592,52875,61,72.33,62:67,True,F,True,False,False
+3218125,53247,53,110.5,00:05;,True,M,False,False,False
+3469104,53355,80,100.93,NIL,True,M,False,False,False
+3307298,53492,66,87.57,NIL,True,M,False,True,False
+3683752,53545,81,101.78,10:30; 42:55,False,M,True,False,False
+3792584,53714,75,97.65,21:23;30:32;44:46;48:49,True,M,False,False,False
+3593020,53722,86,98.57,26:27;,False,M,True,False,False
+3127116,53878,51,115.02,00:12;17:19;20:60;,True,F,True,False,False
+3612268,53939,82,85.53,00:54;,False,M,False,True,False
+3162815,54305,70,79.85,29:30; 45:46;74:76,True,M,False,False,False
+3339816,54613,77,73.8,NIL,True,M,False,False,False
+3713030,54620,49,71.4,ALL,False,F,True,False,False
+3431278,54757,41,91.9,NIL,True,M,False,False,False
+3219879,54893,79,87.32,16:26; 42:46;70:74;,True,M,False,False,False
+3189674,54940,25,119.9,ALL,True,F,False,False,False
+3687929,54979,79,97.83,49:54;,False,M,True,False,False
+3961761,55682,82,71.87,ALL,True,M,True,False,False
+3969823,56867,62,98.23,41:49;,True,F,True,False,False
+3477101,58732,62,97.72,4:12; 25:97.72;,True,M,True,False,False
+3648988,59417,58,112.52,NIL,True,F,False,False,False
+3631638,59991,64,97.0,00:07;,True,M,False,False,False
+3623112,63721,68,100.9,47:50;,True,M,False,False,False
+3546205,63878,54,101.2,NIL,True,F,False,False,False
+3926272,67477,55,99.0,NIL,True,M,False,False,False
+3178429,69250,85,103.78,00:31; 47:57;60:65;70:81; 84:95;99:102,True,F,True,False,False
+3876638,69354,55,99.32,00:02;5:13;63:66;,True,M,False,False,False
+3372338,70463,43,110.9,NIL,True,F,True,False,False
+3776180,73770,80,104.75,ALL,True,M,False,False,False
+3727359,74640,47,118.15,00:16;20:30;95:118,True,F,False,False,False
+3024140,80561,81,117.68,03:34; 40:45;46:62;63:66;88:90,True,F,False,False,False
+3877056,83180,66,103.35,00:09;66:70;74:76,True,F,False,False,False
+3459208,89419,83,119.83,NIL,True,F,True,True,False
+3138137,91350,84,111.12,00:08;20:40;43:54;62:63;66:73;81:82;83:89;99:102;105:107,True,M,False,True,False
+3391887,98481,86,94.42,24:28; 29:36; 89:94;,True,M,False,True,False
+3286482,99783,42,88.48,8:30;52:54;58:61;76:81;,True,M,True,True,False
